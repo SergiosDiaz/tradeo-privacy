@@ -1,12 +1,12 @@
-# Política de privacidad de Tradeo
+# Política de privacidad de TradeoTCG
 
 **Última actualización:** 29 de octubre de 2026
 
 ## 1. Quiénes somos
 
-Tradeo («la App») es una app para apuntar tu colección de cartas coleccionables y proponer cambios a tus amigos. La desarrolla Sergio Díaz, que es el responsable de tus datos. Contacto: **sergiodz.r@gmail.com**.
+TradeoTCG («la App») es una app para apuntar tu colección de cartas coleccionables y proponer cambios a tus amigos. La desarrolla Sergio Díaz, que es el responsable de tus datos. Contacto: **sergiodz.r@gmail.com**.
 
-Tradeo es una app no oficial, sin relación con Nintendo, Creatures, GAME FREAK ni The Pokémon Company. Las cartas, sus nombres e imágenes son de sus respectivos dueños.
+TradeoTCG es una app no oficial, sin relación con Nintendo, Creatures, GAME FREAK ni The Pokémon Company. Las cartas, sus nombres e imágenes son de sus respectivos dueños.
 
 ## 2. Qué datos tratamos
 
