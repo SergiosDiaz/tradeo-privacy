@@ -2,7 +2,7 @@
 
 **Soporte**
 
-¿Tienes una duda, una sugerencia o has encontrado un error? Escríbenos a **sergiodz.r@gmail.com**.
+¿Tienes una duda, una sugerencia o has encontrado un error? Escríbenos a **tradeotcg.app@gmail.com**.
 
 ## Preguntas frecuentes
 

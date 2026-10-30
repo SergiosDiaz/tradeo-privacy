@@ -4,7 +4,7 @@
 
 ## 1. Quiénes somos
 
-TradeoTCG («la App») es una app para apuntar tu colección de cartas coleccionables y proponer cambios a tus amigos. La desarrolla Sergio Díaz, que es el responsable de tus datos. Contacto: **sergiodz.r@gmail.com**.
+TradeoTCG («la App») es una app para apuntar tu colección de cartas coleccionables y proponer cambios a tus amigos. La desarrolla Sergio Díaz, que es el responsable de tus datos. Contacto: **tradeotcg.app@gmail.com**.
 
 TradeoTCG es una app no oficial, sin relación con Nintendo, Creatures, GAME FREAK ni The Pokémon Company. Las cartas, sus nombres e imágenes son de sus respectivos dueños.
 
@@ -46,7 +46,7 @@ Puedes acceder a tus datos, corregirlos o borrarlos, y oponerte a su tratamiento
 
 - **Eliminar tu cuenta y tus datos:** en la App, en *Tu cuenta → Eliminar cuenta*.
 - **Cambiar tu nombre:** en *Tu cuenta → Perfil*.
-- **Cualquier otra petición:** escribe a **sergiodz.r@gmail.com**. Contestamos en un máximo de 30 días.
+- **Cualquier otra petición:** escribe a **tradeotcg.app@gmail.com**. Contestamos en un máximo de 30 días.
 
 Si crees que no hemos tratado bien tus datos, puedes reclamar ante la Agencia Española de Protección de Datos ([aepd.es](https://www.aepd.es)).
 
